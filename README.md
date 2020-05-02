@@ -1,2 +1,2 @@
 # cats-examples
-Cats Scala library usage examples
+Usage examples of Cats Scala library https://typelevel.org/cats
